@@ -1,57 +1,29 @@
+* {
+  font-family: Sans-serif;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
 p {
-  color: 	#FFA500;
+  font-size: 1rem;
 }
 
-body {
-  background-color: #086a5a;
+a {
+  font-size: 1rem
 }
 
-.bright {
-  color: #C71585
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
 }
 
-.lavender-text {
-  color: lavender;
+.grey-text {
+  color: #333333;
 }
 
-.important {
-  font-weight: bold;
-}
-
-#lead-paragraph {
-  color: 	#FFA500;
-  font-weight: bold;
-}
-.important:hover {
-  background-color:#D3D3D3;
-}
-
-a[href="https://www.petfinder.com/dog-breeds/"] {
-  background-color:#B0C4DE;
-  padding: 1rem;
-}
-
-#link {
-  color: 	#8B0000;
-}
-
-a[href="https://www.lifeisgreat.nu"] {
-  background-color:#084d5a;
-  padding: 2rem;
-}
-
-h1 {
-  color: #DA70D6;
-  border-style: dashed;
-  border-width: 5px;
-  border-color: #AFEEEE;
-  text-align: center;
-  font-weight: normal;
-}
-
-img {
-  border-style: solid;
-  border-color: 	#800080;
-  border-width: 10px;
-  width: 28%;
+a {
+  color: #ADD8E6;
 }
