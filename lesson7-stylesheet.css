@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #FFFFFF;
+}
+
+.header {
+  padding: 150px;
+  text-align: center;
+  color: #ecb722;
+  font-family: 'Luckiest Guy', cursive;
+  background-image: url(file:///C:/Users/Wendi/Desktop/HTML100/portfolio/headerImage.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #1b447f;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #ecb722;
+  color: #444444;
+}
+
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  color: #ecb722;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+}
+
+h5 {
+  color: #1b447f;
+  font-size: 15px;
+}
+
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+}
+
+.left {
+  background-color: #FFFFFF;
+  color: #444444;
+  padding: 20px;
+  margin-top: 20px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.right {
+  background-color: #1b447f;
+  padding: 12px;
+  margin-top: 20px;
+  font-family: 'DM Sans', sans-serif;
+  color: #FFFFFF;
+}
+
+
+/* contact sheet */
+h3 {
+  color: #ecb722;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* equipment sheet */
+h4 {
+  color: #ecb722;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+}
